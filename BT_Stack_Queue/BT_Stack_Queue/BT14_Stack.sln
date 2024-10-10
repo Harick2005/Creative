@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BT14_Stack", "BT14_Stack\BT14_Stack.csproj", "{0085432D-CC1D-4EFB-AD23-752F45DEDF96}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BT11_Queue", "BT11_Queue\BT11_Queue.csproj", "{56A14AF6-152E-43F6-8E87-06ABB05A569F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0085432D-CC1D-4EFB-AD23-752F45DEDF96}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0085432D-CC1D-4EFB-AD23-752F45DEDF96}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0085432D-CC1D-4EFB-AD23-752F45DEDF96}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0085432D-CC1D-4EFB-AD23-752F45DEDF96}.Release|Any CPU.Build.0 = Release|Any CPU
+		{56A14AF6-152E-43F6-8E87-06ABB05A569F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56A14AF6-152E-43F6-8E87-06ABB05A569F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56A14AF6-152E-43F6-8E87-06ABB05A569F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56A14AF6-152E-43F6-8E87-06ABB05A569F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

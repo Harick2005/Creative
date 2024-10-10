@@ -1,0 +1,6 @@
+D:\CTDL\BT14_Stack\BT14_Stack\bin\Debug\BT14_Stack.exe.config
+D:\CTDL\BT14_Stack\BT14_Stack\bin\Debug\BT14_Stack.exe
+D:\CTDL\BT14_Stack\BT14_Stack\bin\Debug\BT14_Stack.pdb
+D:\CTDL\BT14_Stack\BT14_Stack\obj\Debug\BT14_Stack.csprojResolveAssemblyReference.cache
+D:\CTDL\BT14_Stack\BT14_Stack\obj\Debug\BT14_Stack.exe
+D:\CTDL\BT14_Stack\BT14_Stack\obj\Debug\BT14_Stack.pdb
